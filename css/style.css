@@ -22,13 +22,11 @@ body {
 }
 
 .NavLogo a {
-        color: white;
+    color: white;
     text-decoration: none;
     font-size: 24px;
     font-weight: bold;
 }
-
-
 
 .NavMenu {
     display: flex;
@@ -82,14 +80,57 @@ body {
     text-shadow: 1px 3px 5px black;
 }
 
-#lineStyle {
-    width: 0;
-    height: 2px;
-    background-color: white;
-    margin: 120px auto 0;
-    border: none;
-    animation: drawLine 1.2s ease-out 0.3s forwards;
-    box-shadow: 0px 0px 5px black;
+    #HeroText i {
+        font-size: 48px;
+        padding: 0 15px;
+        opacity: 0;
+        display: inline-block;
+        animation: slideicon 1.2s ease-out forwards;
+    }
+
+        #HeroText i:nth-child(1) {
+            animation-delay: 0.6s;
+        }
+
+        #HeroText i:nth-child(2) {
+            animation-delay: 0.8s;
+        }
+
+        #HeroText i:nth-child(3) {
+            animation-delay: 1s;
+        }
+
+        #HeroText i:nth-child(4) {
+            animation-delay: 1.2s;
+        }
+
+        #HeroText i:nth-child(5) {
+            animation-delay: 1.4s;
+        }
+
+    #lineStyle {
+        width: 0;
+        height: 2px;
+        background-color: white;
+        margin: 6px auto 0;
+        border: none;
+        animation: drawLine 1.2s ease-out 0.3s forwards;
+        box-shadow: 0px 0px 5px black;
+    }
+
+@keyframes slideicon{
+   0% {
+        transform: translateY(40px);
+        opacity: 0;
+    }
+    75% {
+        transform: translateY(10px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }
 
 @keyframes drawLine {
@@ -104,4 +145,30 @@ body {
     margin: 0 auto;
     background-color: white;
     text-align: center;
+}
+
+.AboutContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.AboutContent img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.AboutText {
+    max-width: 600px;
+    text-align: left;
+}
+
+.AboutContent h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    padding: 5px 10px;
 }

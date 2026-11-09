@@ -1,38 +1,54 @@
 ﻿<!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Francisco Morim - Portfólio</title>
-        <link rel="stylesheet" href="css/style.css">
-    </head>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Francisco Morim - Portfólio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/font/bootstrap-icons.min.css">
+</head>
     <body>
         <header class="TopNav">
             <div class="NavLogo">
-                <a href="#home">Francisco Morim</a>
+                <a href="#home" class="scroll">Francisco Morim</a>
             </div>
 
             <nav class="NavMenu" id="navMenu">
-                <a href="#home" class="active">Home</a>
+                <a href="#home" class="active scroll">Home</a>
                 <a href="#about">About</a>
                 <a href="#projects">Projects</a>
                 <a href="#tools">Tools</a>
                 <a href="#contact">Contact</a>
             </nav>
         </header>
-        <div id="HeroBanner">
-            <video autoplay muted loop id="heroVideo">
-                <source src="img/hero.webm" type="video/webm">
-            </video>
-            <div id="HeroText">
-                <h1>Francisco Morim</h1>
-                <h2>Game Programmer</h2>
-                <hr id="lineStyle">
+        <section id="home">
+            <div id="HeroBanner">
+                <video autoplay muted loop id="heroVideo">
+                    <source src="img/hero.webm" type="video/webm">
+                </video>
+                <div id="HeroText">
+                    <h1>Francisco Morim</h1>
+                    <h2>Game Programmer</h2>
+                    <i class="bi bi-code"></i>
+                    <i class="bi bi-controller"></i>
+                    <i class="bi bi-display"></i>
+                    <hr id="lineStyle">
+                </div>
             </div>
-        </div>
         <div class="WorkArea">
-            <img src="img/gamepad-solid.png" height="50px" width="50px">
+            <section id="about">
+                <div class="AboutContent">
+                    <img src="img/Francisco.jpg"/>
+                    <div class="AboutText">
+                        <h1>About Me</h1>
+                        <h2>Hi! I'm Francisco</h2>
+                        <p>I'm a passionate game programmer with a background of C++, C#. I have developed games using Unity, Unreal Engine and GBStudio and I'm eager to learn new techniques and improve my skills as a game developer.</p>
+                        <p>Video games have always been part of me while growing up, and now I've decided to challenge myself and develop those same games and share with others.</p>
+                    </div>
+                </div>
+            </section>
         </div>
+        <script src="js/ScrollToContent.js"></script>
     </body>
 </html>
