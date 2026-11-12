@@ -159,11 +159,12 @@ body {
     margin-top: 50px;
 }
 
-.AboutContent img {
-    width: 20%;
-    height: 20%;
-    border-radius: 50%;
-}
+    .AboutContent img {
+        width: 20%;
+        height: 20%;
+        border-radius: 50%;
+        object-fit:cover;
+    }
 
 .AboutText {
     max-width: 600px;
@@ -237,15 +238,27 @@ body {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: auto;
+    height: 200px;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
 }
 
 .ProjectImg img {
     width: 150%;
-    object-fit: fill;
+    object-fit: cover;
+    position: relative;
+    top: 0;
+    transform: translateY(0);
 }
+
+.ProjectImg .yourecooked {
+    width: 150%;
+    object-fit: cover;
+    position: relative;
+    top: 30%;
+    transform: translateY(-30%);
+}
+
 
 .ProjectCard h2 {
     text-align: center;
