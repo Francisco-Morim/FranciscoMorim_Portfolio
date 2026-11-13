@@ -83,33 +83,30 @@ body {
     text-shadow: 1px 3px 5px black;
 }
 
-    #HeroText i {
-        font-size: 48px;
-        padding: 0 15px;
-        opacity: 0;
-        display: inline-block;
-        animation: slideicon 1.2s ease-out forwards;
+#HeroBanner a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#HeroText a {
+    display: inline-block;
+    opacity: 0;
+    animation: slideicon 1.2s ease-out forwards;
+}
+
+    #HeroText a:nth-child(3) {
+        animation-delay: 1s;
     }
 
-        #HeroText i:nth-child(1) {
-            animation-delay: 0.6s;
-        }
+    #HeroText a:nth-child(4) {
+        animation-delay: 1.2s;
+    }
 
-        #HeroText i:nth-child(2) {
-            animation-delay: 0.8s;
-        }
-
-        #HeroText i:nth-child(3) {
-            animation-delay: 1s;
-        }
-
-        #HeroText i:nth-child(4) {
-            animation-delay: 1.2s;
-        }
-
-        #HeroText i:nth-child(5) {
-            animation-delay: 1.4s;
-        }
+    #HeroText i {
+        font-size: 44px;
+        padding: 0 15px 5px 0;
+        
+    } 
 
     #lineStyle {
         width: 0;
