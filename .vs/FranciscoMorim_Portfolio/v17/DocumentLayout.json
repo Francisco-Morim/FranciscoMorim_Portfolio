@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\js\\menu.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\menu.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\js\\Menu.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\Menu.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,31 +42,29 @@
               "RelativeToolTip": "js\\Menu.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-11-14T09:36:59.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-14T09:36:59.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.html",
-              "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\Index.html",
-              "RelativeDocumentMoniker": "Index.html",
-              "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\Index.html",
-              "RelativeToolTip": "Index.html",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAFMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-11-07T21:37:51.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T21:37:51.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "About.html",
-              "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\About.html",
-              "RelativeDocumentMoniker": "About.html",
-              "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\About.html",
-              "RelativeToolTip": "About.html",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAcwF0AAAAqAAAAAAAAAA==",
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\about.html",
+              "RelativeToolTip": "about.html",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwF0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-13T22:23:41.367Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "css\\about.css",
               "ViewState": "AgIAAAUBAAAAAAAAAAAwwB4BAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-13T22:27:30.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-13T22:27:30.602Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "css\\home.css",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAALsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-07T21:30:45.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T21:30:45.643Z"
             }
           ]
         }
