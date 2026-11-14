@@ -1,0 +1,27 @@
+# Visual Studio & Editor folders
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies (if using npm/yarn)
+node_modules/
+
+# Build outputs & caches (if using bundlers like Vite/Webpack)
+dist/
+build/
+.cache/
+
+# Environment variables & sensitive keys
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
