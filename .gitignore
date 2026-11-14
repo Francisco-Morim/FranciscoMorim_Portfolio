@@ -1,5 +1,5 @@
 # Visual Studio & Editor folders
-.vs/
+.vs\
 .vscode/
 .idea/
 *.suo
@@ -25,3 +25,16 @@ build/
 # Logs
 *.log
 npm-debug.log*
+.vs/FranciscoMorim_Portfolio/CopilotIndices/17.14.1584.41681/CodeChunks.db
+.vs/FranciscoMorim_Portfolio/CopilotIndices/17.14.1584.41681/SemanticSymbols.db
+.vs/FranciscoMorim_Portfolio/FileContentIndex/29c90e11-de67-4dab-a06a-a4ae8a6c54ef.vsidx
+.vs/FranciscoMorim_Portfolio/FileContentIndex/65f065d9-275a-4fe0-a0f8-acd04399b949.vsidx
+.vs/FranciscoMorim_Portfolio/FileContentIndex/8ea39a1e-17cb-455f-b575-409df5790d38.vsidx
+.vs/FranciscoMorim_Portfolio/FileContentIndex/d1ca2d74-7aac-4068-ad6f-521a3b80037a.vsidx
+.vs/FranciscoMorim_Portfolio/FileContentIndex/d94279b0-c0f8-457b-97cd-f3fd02a2ee42.vsidx
+.vs/FranciscoMorim_Portfolio/FileContentIndex/ff863358-5904-4371-95a5-964536844075.vsidx
+.vs/FranciscoMorim_Portfolio/v17/.wsuo
+.vs/FranciscoMorim_Portfolio/v17/DocumentLayout.backup.json
+.vs/FranciscoMorim_Portfolio/v17/DocumentLayout.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
