@@ -28,7 +28,7 @@
         <nav class="NavMenu" id="navMenu">
             <a href="#home" class="active scroll">Home</a>
             <a href="about.html">About</a>
-            <a href="#projects">Projects</a>
+            <a href="projects.html">Projects</a>
         </nav>
     </header>
     <div class="navDropBackground" id="navbarDimBackground"></div>
@@ -47,40 +47,83 @@
         </div>
     </section>
     <div class="WorkArea">
-        <section id="projects">
-            <div class="ProjectsContent">
-                <h1>Latest Project</h1>
-                <div class="ProjectCards">
-                    <a href="https://meemoo-studios.itch.io/ocean-fare" target="_blank" rel="noopener noreferrer">
-                        <div class="ProjectCard">
-                            <div class="ProjectImg">
-                                <img src="img/OceanFare.png" />
-                            </div>
-                            <h2>Ocean Fare</h2>
-                            <p>A 3D puzzle game where you are inside an underwater train to find and restore your sense of self!</p>
+        <!--
+    <section id="projects">
+        <div class="ProjectsContent">
+            <h1>Latest Project</h1>
+            <div class="ProjectCards">
+                <a href="https://meemoo-studios.itch.io/ocean-fare" target="_blank" rel="noopener noreferrer">
+                    <div class="ProjectCard">
+                        <div class="ProjectImg">
+                            <img src="img/OceanFare.png" />
                         </div>
-                    </a>
-                    <!-- <a href="https://kikogamedev.itch.io/youre-cooked" target="_blank" rel="noopener noreferrer">
-                         <div class="ProjectCard">
-                             <div class="ProjectImg">
-                                 <img src="img/YoureCooked.png" class="yourecooked"/>
-                             </div>
-                             <h2>You're Cooked</h2>
-                             <p>A 2D platformer fighting where you fight other ingredients to not be part of the Portuguese dish!</p>
-                         </div>
-                     </a> -->
-                </div>
+                        <h2>Ocean Fare</h2>
+                        <p>A 3D puzzle game where you are inside an underwater train to find and restore your sense of self!</p>
+                    </div>
+                </a>
             </div>
-        </section>
-    </div>
-    <footer>
-        <div class="FooterContent">
-            <p> © Francisco Morim. All Rights Reserved.</p>
-            <a href="https://kikogamedev.itch.io/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-itch-io"></i></a>
-            <a href="https://www.linkedin.com/in/francisco-morim-608a87240/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
         </div>
-    </footer>
-    <script src="js/ScrollToContent.js"></script>
-    <script src="js/Menu.js"></script>
+    </section>
+        -->
+        <div class="ProjectsContent">
+            <h1>Featured Work</h1>
+            </div>
+            <section id="projects" class="Showreel">
+                <div class="ShowreelHead">
+                    <h1>Ocean Fare</h1>
+                    <p class="ShowreelTagline">
+                        Explore an underwater train and find and restore your sense of self!
+                    </p>
+                </div>
+                <div class="ShowreelGrid">
+                    <div class="ShowreelShot ShowreelShot--main">
+                        <video autoplay muted loop playsinline>
+                            <source src="img/oceanfarevid.webm" type="video/webm">
+                        </video>
+                    </div>
+                    <div class="ShowreelShot">
+                        <img src="img/oceanfarescreenshot1.png" alt="Ocean fare Screenshot 1" />
+                    </div>
+                    <div class="ShowreelShot">
+                        <img src="img/oceanfarescreenshot2.png" alt="Ocean fare Screenshot 1" />
+                    </div>
+                </div>
+
+                <p class="ShowreelDesc">
+                    A 3D exploration puzzle game where you must find your sense of self by completing puzzles and moving foward. Grab obstacles or puzzle pieces with your new companion!
+                </p>
+
+                <div class="ShowreelDetails">
+                    <div class="role">
+                        <b>Role</b>
+                        <p>Programmer</p>
+                    </div>
+                    <div class="engine">
+                        <b>Engine</b>
+                        <p><i class="fa-brands fa-unreal-engine"></i> Unreal Engine</p>
+                    </div>
+                    <div class="engine">
+                        <b>Events</b>
+                        <p>DevGAMM 2026 (booth)</p>
+                    </div>
+                </div>
+
+                <a class="ShowreelPlay"
+                   href="https://meemoo-studios.itch.io/ocean-fare"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Check itch.io page
+                </a>
+            </section>
+        </div>
+        <footer>
+            <div class="FooterContent">
+                <p> © Francisco Morim. All Rights Reserved.</p>
+                <a href="https://kikogamedev.itch.io/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-itch-io"></i></a>
+                <a href="https://www.linkedin.com/in/francisco-morim-608a87240/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
+            </div>
+        </footer>
+        <script src="js/ScrollToContent.js"></script>
+        <script src="js/Menu.js"></script>
 </body>
 </html>

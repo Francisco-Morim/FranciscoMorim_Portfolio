@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\js\\Menu.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "projects.html",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\projects.html",
+              "RelativeDocumentMoniker": "projects.html",
+              "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\projects.html",
+              "RelativeToolTip": "projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-16T09:34:13.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Menu.js",
               "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\js\\Menu.js",
               "RelativeDocumentMoniker": "js\\Menu.js",
@@ -52,26 +69,26 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-07T21:37:51.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "about.html",
               "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\about.html",
               "RelativeDocumentMoniker": "about.html",
               "ToolTip": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\about.html",
               "RelativeToolTip": "about.html",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAcwF0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-13T22:23:41.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "about.css",
               "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\css\\about.css",
               "RelativeDocumentMoniker": "css\\about.css",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "home.css",
               "DocumentMoniker": "C:\\Users\\franc\\Documents\\Portfolio\\FranciscoMorim_Portfolio\\css\\home.css",
               "RelativeDocumentMoniker": "css\\home.css",
